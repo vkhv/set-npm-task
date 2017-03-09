@@ -1,4 +1,4 @@
-Added task in package json.
+Added task in package.json file.
 
 ### Example
 ```
